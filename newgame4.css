@@ -1,0 +1,136 @@
+body,html{
+	background-color: #701818;
+	color: black;
+
+}
+
+
+.os{
+		border-color: black;
+		font-family: 'Changa One', cursive;
+		border-bottom: 4px solid black;
+		border-right: 4px solid black;
+		border-left:4px solid black ;
+		border-top: 4px solid black;
+		width:300px;
+		box-shadow: 3px 4px #050303;
+		text-align: center;
+		border-
+		
+}		
+
+.sag{
+	font-size: 40px;
+	margin-left: 30px;
+}
+
+.gor{
+	font-size: 40px;
+	margin-left: 35px;
+
+}
+
+.mos{
+	font-size: 40px;
+	margin-left: 35px;
+
+}	
+
+
+.wo{
+	font-family: 'Aboreto', cursive;
+}
+
+
+.so{
+	font-size: 18px;
+	font-family: fantasy;
+}
+
+.mo{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: left;
+}
+img{
+		
+		transition: all 1s;
+}
+img:hover{
+
+		transform: scale(1.08);
+}
+
+.ao{
+	font-family: 'Averia Serif Libre', cursive;
+}
+
+.qo{
+	font-family: fantasy;
+	font-size: 18px;
+}
+
+.container-fluid{
+	background-color: #fcaf17 ;
+}
+
+.navbar-light{
+	background-color: black;
+}
+
+
+.col{
+	border: 2px solid #701818;
+}
+
+
+.btn{
+	font-family: fantasy;
+	border-radius: 300px;
+}
+
+
+.btn-outline-warning{
+	color: #fcaf17 ;
+}
+
+
+.btn-outline-warning:hover{
+	border-width: 3px;
+}
+
+.btn-xl{
+	padding: 2rem 4rem;
+	justify-content: center;
+}
+
+
+p{
+	font-family: fantasy;
+}
+
+
+.card-text{
+	background-color: #fcaf17;
+}
+
+.card-title{
+	background-color: #fcaf17;
+	font-family: fantasy;
+	font-weight: 100em;
+}
+
+
+.card-body{
+	background-color: #fcaf17;
+}
+
+.card{
+	background-color: black;
+}
+
+.osat{
+	border: 2px solid #fcaf17;
+	background-color: #fcaf17;
+}
+
